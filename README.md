@@ -1,0 +1,1 @@
+All projects use Python 3.8.2. Projects in the beginning of the class were created using IDLE. Projects in the latter part of the class were created using Jupiter Notebook.

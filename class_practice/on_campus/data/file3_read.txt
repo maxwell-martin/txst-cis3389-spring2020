@@ -1,0 +1,1 @@
+['This is CIS3389 course\n', 'Course meets at 2:00pm MW\n', 'This is a Python class\n', '12345\n', '67856']
