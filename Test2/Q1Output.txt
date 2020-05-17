@@ -1,6 +1,0 @@
-Total rainfall in Austin last year: 200,000,835.45
-Average rainfall in Austin last year: 16,666,736.29
-Maximum rainfall in Austin last year: 200,000,503.00
-Minimum rainfall in Austin last year: 0.00
-Month name with the maximum rainfall: July
-Month name with the minimum rainfall: November
